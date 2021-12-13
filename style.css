@@ -8,6 +8,7 @@
     background-image: url("https://i.gifer.com/PG23.gif");
     background-repeat: no-repeat;
     background-position: center;
+    background-size: cover;
     z-index: 99999;
 }
 .images{
