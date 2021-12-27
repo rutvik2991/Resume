@@ -1,0 +1,142 @@
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    text-align: left;
+    position: relative;
+    font-size: 20px;
+    box-shadow: 0px 10px 5px black inset;
+    color: white;
+}
+.info{
+    display: flex;
+    padding: 10px;
+    background-image: url(./image/haderb.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 800px;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction:row;
+    
+}
+.data{
+    justify-content: space-around;
+    padding: 20px;
+    background-color: rgba(0,0,0,0.5);
+    border-radius: 5px ;
+
+}
+.info h1{
+    font-family: 'Prompt', sans-serif;
+    flex-wrap: wrap;
+    font-size: 60px;
+    margin: 10px;
+
+}
+.info h2{
+    font-family: 'Vujahday Script', cursive;
+
+    flex-wrap: wrap;
+    margin: 10px;
+}
+.info p{
+    font-family: 'Prompt', sans-serif;
+    flex-wrap: wrap;
+    font-size: 30px;
+    margin: 10px;
+}
+.logo{
+    display: flex;
+    margin:0;
+    padding: 3px;
+    height: 60px;
+    width: 60px;
+    border-radius: 0 50% 50% 0;
+    background-color: white;
+}
+.nav{
+    display: flex;
+    justify-content:space-between;
+    flex-direction: row;
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+    background-color: rgb(34, 26, 26);
+    box-shadow: 0px 2px 5px 1px rgb(2, 2, 2);
+    list-style: none;
+}
+.sideone{
+    height: 350px;
+    width: 350;
+}
+ul,li{
+    display: flex;
+    margin: 5px;
+    padding: 5px;
+    justify-content: space-between;
+    text-align: center;
+    flex-direction: row; 
+    list-style: none;
+    transition: 0.9s;
+}
+li:hover{
+    box-shadow: 1px 1px 25px 25px yellow inset;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: black;
+}
+.informativeimages{
+    justify-content: center;
+    text-align: right;
+}
+
+p{
+    text-align: justify;
+    max-width: 700px;
+    color: gray;
+    font-family: 'Indie Flower', cursive;
+}
+.lug{
+    padding: 50px;
+    display: flex;
+    opacity: 0.9;
+    text-align: center;
+    justify-content:space-around;
+    flex-wrap: wrap;
+    flex-direction: row;
+    background-color: rgb(35, 156, 31);
+}
+.llogo{
+    font-size: 100px;
+    transition: 0.5s;
+}
+.llogo:hover{
+    font-size: 150px;
+}
+.ltext{
+    font-size: 15px;
+}
+.empty{
+    background-color: black;
+    width: 0px;
+    height:1000px;
+}
+.tag{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: gray;
+    box-shadow:0px 10px 5px black;
+}
+.tag h1{
+    margin: 20px;
+    padding: 20px;
+    border-radius: 25px;
+}
