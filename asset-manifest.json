@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/Resume/static/css/main.8d08807e.chunk.css",
-    "main.js": "/Resume/static/js/main.77cede45.chunk.js",
-    "main.js.map": "/Resume/static/js/main.77cede45.chunk.js.map",
+    "main.css": "/Resume/static/css/main.304e817b.chunk.css",
+    "main.js": "/Resume/static/js/main.443814f7.chunk.js",
+    "main.js.map": "/Resume/static/js/main.443814f7.chunk.js.map",
     "runtime-main.js": "/Resume/static/js/runtime-main.dececb96.js",
     "runtime-main.js.map": "/Resume/static/js/runtime-main.dececb96.js.map",
     "static/js/2.e7fbbbbf.chunk.js": "/Resume/static/js/2.e7fbbbbf.chunk.js",
     "static/js/2.e7fbbbbf.chunk.js.map": "/Resume/static/js/2.e7fbbbbf.chunk.js.map",
     "index.html": "/Resume/index.html",
-    "static/css/main.8d08807e.chunk.css.map": "/Resume/static/css/main.8d08807e.chunk.css.map",
+    "static/css/main.304e817b.chunk.css.map": "/Resume/static/css/main.304e817b.chunk.css.map",
     "static/js/2.e7fbbbbf.chunk.js.LICENSE.txt": "/Resume/static/js/2.e7fbbbbf.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Resume/static/media/Rutvik_Header_Bg.47ed8308.jpg",
-    "static/media/pro.d4374529.webm": "/Resume/static/media/pro.d4374529.webm",
+    "static/media/farmer.989c5777.jpg": "/Resume/static/media/farmer.989c5777.jpg",
+    "static/media/pro.a6644884.mp4": "/Resume/static/media/pro.a6644884.mp4",
     "static/media/rutvik.png": "/Resume/static/media/rutvik.0fc9decb.png",
     "static/media/style.css": "/Resume/static/media/rutvikbg.247c7b29.jpg",
     "static/media/side.png": "/Resume/static/media/side.51ef7ead.png"
@@ -19,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.dececb96.js",
     "static/js/2.e7fbbbbf.chunk.js",
-    "static/css/main.8d08807e.chunk.css",
-    "static/js/main.77cede45.chunk.js"
+    "static/css/main.304e817b.chunk.css",
+    "static/js/main.443814f7.chunk.js"
   ]
 }
